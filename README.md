@@ -6,7 +6,7 @@ A robust, containerized Node.js application for streaming large datasets (10M+ r
 
 -   **Streaming Architecture**: Uses Node.js streams and `pg-query-stream` to process data row-by-row, ensuring constant memory usage (< 256MB).
 -   **Multiple Formats**: 
-    -   CSV (with flattened JSON)
+    -   CSV (with flattened JSON) 
     -   JSON (Array of objects)
     -   XML (Custom schema)
     -   Parquet (Columnar storage) 
