@@ -9,7 +9,7 @@ A robust, containerized Node.js application for streaming large datasets (10M+ r
     -   CSV (with flattened JSON)
     -   JSON (Array of objects)
     -   XML (Custom schema)
-    -   Parquet (Columnar storage)
+    -   Parquet (Columnar storage) 
 -   **Compression**: Optional Gzip compression for text formats.
 -   **Benchmarks**: Built-in endpoint to measure performance.
 -   **Containerized**: Docker and Docker Compose ready.
