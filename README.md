@@ -96,7 +96,7 @@ Install dependencies:
 npm install
 ```
 
-Run in dev mode:
+Run in dev mode: 
 ```bash
 npm run dev
 ```
