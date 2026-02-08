@@ -77,7 +77,7 @@ Runs a performance test for all formats on the full dataset.
 -   **Runtime**: Node.js (TypeScript)
 -   **Database**: PostgreSQL 13
 -   **Streaming**:
-    -   `pg-query-stream`: Reads from DB cursor.
+    -   `pg-query-stream`: Reads from DB cursor. 
     -   `fast-csv`: CSV serialization.
     -   `xmlbuilder2` / Custom Transformer: XML serialization.
     -   `parquetjs-lite`: Parquet serialization.
